@@ -23,7 +23,6 @@ Shanghai_Subway_System(QT)
 
 **开发平台**
 
-开发平台： 
 
 开发语言：C++
 
