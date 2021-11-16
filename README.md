@@ -24,12 +24,21 @@ Shanghai_Subway_System(QT)
 **开发平台**
 
 开发平台： 
+
 开发语言：C++
+
 开发框架：QT
+
 集成开发环境：Qt Version 5.14.1
+
 编辑器：Qt Creator Manual 4.11.1
+
 编译器：MinGW 32bit
+
 运行环境：
+
 计算机型号：DELL G3
+
 操作系统：Win 10
+
 在上述集成环境下运行
